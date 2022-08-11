@@ -1,0 +1,2 @@
+servidores são os micros nos quais ficam armazenados as respostas das requisições realizadas pelos usuarios via web, de tal modo que se comunicam com diversos clientes.
+parte do relacionamento servside e clientside.

@@ -1,0 +1,2 @@
+software é o sistema responsável por executar as atividade de uma determinada máquina, isto é, são os programas e aplicativos.
+ O hardware por sua vez é a parte física que fazem o equipamento funcionar.

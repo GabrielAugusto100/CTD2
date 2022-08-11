@@ -1,0 +1,1 @@
+Git Bash e VsCode responsáveis por permitir a utilização de linhas de comando para integração de arquivos, pastas e diretó

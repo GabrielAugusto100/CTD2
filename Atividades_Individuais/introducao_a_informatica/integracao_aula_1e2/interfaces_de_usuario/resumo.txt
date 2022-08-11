@@ -1,0 +1,1 @@
+interfaces de usuario é a parte visível de um software que se apresenta aos usuários.
